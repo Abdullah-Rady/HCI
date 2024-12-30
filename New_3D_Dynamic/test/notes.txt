@@ -1,0 +1,4 @@
+use distance of camera from or focal length to change threshold value, and direction
+model only detects that the gesture started or ended, use maths for the gesture itself. if the model detects rotation for example, 
+we use maths to rotate the object according to the finger/hand movement.
+marwa.essam@guc.eu.eg
